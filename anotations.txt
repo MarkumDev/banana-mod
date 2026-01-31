@@ -1,0 +1,12 @@
+"W" → World start / jogo iniciou
+"a" → Spawn / update de entidades (mobs, objetos)
+"C" → Update de player (dados gerais)
+"P" → Posição / movimento
+"H" → Vida (HP)
+"S" → Estado / score / stats
+"R" → Remoção de entidade (despawn)
+"g" → Gather / hit
+"q" → Ação / ataque
+"Q" → Equip / item
+"c" → Chat
+"p" → Ping / keep-alive
