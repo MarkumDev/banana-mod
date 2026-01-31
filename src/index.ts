@@ -5,7 +5,7 @@ import { decode } from "@msgpack/msgpack";
 function menuUITweaks() {
   // remover alguns elementos do menu
 
-  alert("test"); // esta linha é nova
+  console.log("test");
 
   [
     "#adCard",
