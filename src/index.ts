@@ -5,8 +5,6 @@ import { decode } from "@msgpack/msgpack";
 function menuUITweaks() {
   // remover alguns elementos do menu
 
-  console.log("test");
-
   [
     "#adCard",
     "wideAdCard",
